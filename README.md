@@ -17,19 +17,10 @@ You can click the Preview link to take a look at your changes.
 
 <hr />
 <h3 align="center"> Follow me on </h4>
-<p align="center">
-  
-  <!--- Twitter --->
-  <a href="https://twitter.com/AnEdgyMango" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="enisnecipoglu" height="30" width="30" /></a>
-  
-  <!--- Instagram --->
-  <a href="https://www.instagram.com/anedgymango/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="enisnecipoglu" height="30" width="30" /></a>
-  
-  <!--- Quora --->
-  <a href="https://www.quora.com/profile/Krzysztof-Sendecki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="@enis.necipoglu" height="30" width="30" /></a>
-  
-  <!--- Linkedin --->
-  <a href="https://www.linkedin.com/in/krzysztof-sendecki-1bba2b224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@enis.necipoglu" height="30" width="30" /></a>
-  
 
+<p align="center">
+<a href="https://twitter.com/AnEdgyMango" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="enisnecipoglu" height="30" width="30" /></a>
+<a href="https://www.instagram.com/anedgymango/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="enisnecipoglu" height="30" width="30" /></a>
+<a href="https://www.quora.com/profile/Krzysztof-Sendecki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="@enis.necipoglu" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/krzysztof-sendecki-1bba2b224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@enis.necipoglu" height="30" width="30" /></a> 
 </p>
