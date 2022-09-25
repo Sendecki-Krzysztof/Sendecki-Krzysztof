@@ -1,11 +1,9 @@
 
 <p align="center" font size= "16"> Hello There, I'm Krzysztof </p>
 <hr />
-- 👀 I’m interested in application development, game development and other things.
-- 🌱 I’m currently learning assembly and data structures 
-- 💞️ I’m looking to collaborate on basically anything
-- 📫 How to reach me...
 
+<p align="center"> I'm currently trying to figure out how react works</p>
+<hr />
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sendecki-Krzysztof&layout=compact&theme=tokyonight&count_private=true" alt="enisn" height="160" />
