@@ -1,5 +1,5 @@
 
-<p align="center"> Hello There, I'm Krzysztof </p>
+<p align="center" font size= "16"> Hello There, I'm Krzysztof </p>
 <hr />
 - 👀 I’m interested in application development, game development and other things.
 - 🌱 I’m currently learning assembly and data structures 
