@@ -2,7 +2,7 @@
 <p align="center" font size= "16"> Hello There, I'm Krzysztof </p>
 <hr />
 
-<p align="center"> I'm currently trying to figure out getting a job works</p>
+<p align="center"> I'm currently trying to figure out how getting a job works</p>
 <hr />
 
 <p align="center">
